@@ -1,38 +1,39 @@
-# Hi, I'm Sabri Charime! 👋
+# Hi there, I'm Sabri Charime 👋
 
-## About Me
-I am a passionate Full-Stack Developer specialized in the PERN stack (PostgreSQL, Express, React, Node.js). I enjoy building scalable web applications and transforming ideas into reality through code.
+Welcome to my GitHub profile! I'm passionate about software development and always eager to learn and explore new technologies. Here you'll find some of the projects I've been working on, as well as contributions to open-source projects.
 
-## Skills
-- **Languages**: JavaScript, TypeScript, HTML, CSS
-- **Frameworks**: React, Express
-- **Databases**: PostgreSQL, MongoDB
-- **Tools**: Git, Docker, VSCode
+## 🚀 About Me
 
-## Projects
-### [Full stack blog](https://github.com/sabricharime/fullstack_blog)
-This blog application is designed to provide a seamless and interactive experience for users to read, create, and manage blog posts. It leverages the powerful PERN stack to deliver a robust and scalable solution.
+- 🔭 I’m currently working on various web development projects
+- 🌱 I’m currently learning advanced JavaScript frameworks and cloud computing
+- 👯 I’m looking to collaborate on open-source projects
+- 💬 Ask me about web development, JavaScript, and cloud services
+- 📫 How to reach me: [sabricharime@example.com](mailto:sabricharime@example.com)
+- ⚡ Fun fact: I love hiking and exploring nature
 
+## 🛠️ Technologies & Tools
 
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
-## Contact
-- **GitHub**: [sabricharime](https://github.com/sabricharime)
-- **Email**: [sabricharim7@gmail.com](mailto:sabricharim7@gmail.com)
+## 📈 GitHub Stats
 
-Feel free to reach out if you have any questions or if you want to collaborate on a project!
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sabricharime&show_icons=true&theme=radical)
 
+## 🏆 GitHub Trophies
 
-<!--
-**sabricharime/sabricharime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sabricharime&theme=radical)
 
-Here are some ideas to get you started:
+## 🔗 Connect with Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabri-charime/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/sabricharime)
+
+Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
