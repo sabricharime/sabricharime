@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm passionate about software development and alwa
 - 🌱 I’m currently learning advanced JavaScript frameworks and cloud computing
 - 👯 I’m looking to collaborate on open-source projects
 - 💬 Ask me about web development, JavaScript, and cloud services
-- 📫 How to reach me: [sabricharime@example.com](mailto:sabricharim7@gmail.com)
+- 📫 How to reach me: [sabricharim7@gmail.com](mailto:sabricharim7@gmail.com)
 - ⚡ Fun fact: I love hiking and exploring nature
 
 ## 🛠️ Technologies & Tools
